@@ -1,3 +1,6 @@
+NAMP-TOOLS
+=========================================================================================================================================
+
 O NMAP Tools é um projeto de código aberto hospedado no GitHub que fornece uma coleção de ferramentas e scripts relacionados ao Nmap, uma popular ferramenta de mapeamento de redes. O Nmap é amplamente utilizado para exploração de rede e auditoria de segurança, permitindo que os usuários descubram hosts, serviços, portas abertas e outras informações relevantes em uma rede.
 
 O repositório do NMAP Tools no GitHub serve como um hub central para vários scripts, utilitários e recursos adicionais que podem ser usados em conjunto com o Nmap. Essas ferramentas complementares foram criadas por desenvolvedores da comunidade e podem estender as funcionalidades do Nmap ou fornecer recursos adicionais para análise de dados e relatórios.
@@ -14,6 +17,7 @@ Algumas das ferramentas e recursos disponíveis no repositório podem incluir:
 
 Em resumo, o NMAP Tools no GitHub é um repositório que reúne scripts, utilitários e recursos adicionais que podem ser usados em conjunto com o Nmap para explorar redes e realizar análises de segurança. Essas ferramentas podem ajudar os usuários a automatizar tarefas,
 extrair informações valiosas e aprimorar suas atividades de mapeamento de rede.
+
 =========================================================================================================================================
 
 NMAP Tools — это проект с открытым исходным кодом, размещенный на GitHub, который предоставляет набор инструментов и скриптов, связанных с Nmap, популярным инструментом сетевого картирования. Nmap широко используется для исследования сети и аудита безопасности, позволяя пользователям обнаруживать хосты, службы, открытые порты и другую соответствующую информацию в сети.
@@ -32,4 +36,12 @@ NMAP Tools — это проект с открытым исходным кодо
 
 Короче говоря, инструменты NMAP на GitHub — это хранилище скриптов, утилит и дополнительных ресурсов, которые можно использовать вместе с Nmap для исследования сетей и анализа безопасности. Эти инструменты могут помочь пользователям автоматизировать задачи, извлекать ценную информацию и улучшать свои действия по отображению сети.
 
-### como baixar
+### como baixar/Как загрузить
+
+git clone https://github.com/Noutzhz/NMAP-TOOLS.git
+
+ls
+
+cd NMAP-TOOLS
+
+python3 Nmap.py
