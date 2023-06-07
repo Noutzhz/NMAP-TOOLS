@@ -39,12 +39,12 @@ NMAP Tools — это проект с открытым исходным кодо
 
 Короче говоря, инструменты NMAP на GitHub — это хранилище скриптов, утилит и дополнительных ресурсов, которые можно использовать вместе с Nmap для исследования сетей и анализа безопасности. Эти инструменты могут помочь пользователям автоматизировать задачи, извлекать ценную информацию и улучшать свои действия по отображению сети.
 
-### como baixar/Как загрузить
+#### como baixar/Как загрузить
 
-git clone https://github.com/Noutzhz/NMAP-TOOLS.git
+    git clone https://github.com/Noutzhz/NMAP-TOOLS.git
 
-ls
+    ls
 
-cd NMAP-TOOLS
+    cd NMAP-TOOLS
 
-python3 Nmap.py
+    python3 Nmap.py
