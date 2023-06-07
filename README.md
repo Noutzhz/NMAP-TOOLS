@@ -18,6 +18,9 @@ Algumas das ferramentas e recursos disponíveis no repositório podem incluir:
 Em resumo, o NMAP Tools no GitHub é um repositório que reúne scripts, utilitários e recursos adicionais que podem ser usados em conjunto com o Nmap para explorar redes e realizar análises de segurança. Essas ferramentas podem ajudar os usuários a automatizar tarefas,
 extrair informações valiosas e aprimorar suas atividades de mapeamento de rede.
 
+PT-BR
+=========================================================================================================================================
+RU
 =========================================================================================================================================
 
 NMAP Tools — это проект с открытым исходным кодом, размещенный на GitHub, который предоставляет набор инструментов и скриптов, связанных с Nmap, популярным инструментом сетевого картирования. Nmap широко используется для исследования сети и аудита безопасности, позволяя пользователям обнаруживать хосты, службы, открытые порты и другую соответствующую информацию в сети.
